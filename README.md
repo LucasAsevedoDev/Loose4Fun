@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loose4Fun
+- 👋 Hi, I’m @Asevedo.ferrugem
 - 👀 I'm interessed in learn new things, because I'm fresh in this area
 - 🌱 I’m currently learning "Análise e Dev. de Sistemas"
 - 💞️ I still don't know what I can collaborate on, but as soon as I know, I'll definitely go!
